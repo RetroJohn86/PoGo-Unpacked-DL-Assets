@@ -140,6 +140,10 @@
     "HexColor": "#92B170FF"
   },
   {
+    "ArticleID": "n_backpack_komala_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_backpack_longchampbp_0",
     "HexColor": "#FFFFFFFF"
   },
@@ -158,6 +162,10 @@
   {
     "ArticleID": "n_backpack_movie2020_0",
     "HexColor": "#4892BDFF"
+  },
+  {
+    "ArticleID": "n_backpack_naganadelwings_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_backpack_nike2021_0",
@@ -289,7 +297,7 @@
   },
   {
     "ArticleID": "n_belt_simple_0",
-    "HexColor": "#FFDD06FF"
+    "HexColor": "#067FFFFF"
   },
   {
     "ArticleID": "n_belt_simple_1",
@@ -322,6 +330,10 @@
   {
     "ArticleID": "n_face_3dmask_2",
     "HexColor": "#0A78CCFF"
+  },
+  {
+    "ArticleID": "n_face_allister_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_face_banettemask_0",
@@ -380,16 +392,16 @@
     "HexColor": "#3F3B37FF"
   },
   {
+    "ArticleID": "n_face_toxelmask_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_face_verizon2020mask_0",
     "HexColor": "#2E313BFF"
   },
   {
     "ArticleID": "n_glasses_3d_0",
     "HexColor": "#D8D8D8FF"
-  },
-  {
-    "ArticleID": "n_glasses_aviator_0",
-    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_glasses_cutieflysleepmask_0",
@@ -444,6 +456,10 @@
     "HexColor": "#9A1C1CFF"
   },
   {
+    "ArticleID": "n_glasses_necrozmaitems_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_glasses_newyear2022_0",
     "HexColor": "#F90D0EFF"
   },
@@ -488,8 +504,16 @@
     "HexColor": "#F7BEEBFF"
   },
   {
+    "ArticleID": "n_glasses_wcs2024winnersitems_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_gloves_acetrainersm_0",
     "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_gloves_allister_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_gloves_battlegirl_0",
@@ -542,6 +566,10 @@
   {
     "ArticleID": "n_gloves_delibird_0",
     "HexColor": "#A21616FF"
+  },
+  {
+    "ArticleID": "n_gloves_dynamaxswsh_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_gloves_frlg_a_0",
@@ -676,6 +704,10 @@
     "HexColor": "#C8B309EA"
   },
   {
+    "ArticleID": "n_gloves_teamyellgrunts_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_gloves_wintergloves2023_0",
     "HexColor": "#00000000"
   },
@@ -696,15 +728,19 @@
     "HexColor": "#00000000"
   },
   {
-    "ArticleID": "n_hair_kinkylong_0",
-    "HexColor": "#00000000"
-  },
-  {
     "ArticleID": "n_hair_kinkymedium_0",
     "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_hair_kinkyshort_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_mohawk-0_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hair_mohawk-1_0",
     "HexColor": "#00000000"
   },
   {
@@ -750,6 +786,10 @@
   {
     "ArticleID": "n_hat_adventure_0",
     "HexColor": "#2B2111FF"
+  },
+  {
+    "ArticleID": "n_hat_alolanexeggutorhat_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_hat_aseries_0",
@@ -1028,6 +1068,10 @@
     "HexColor": "#3CA4D0FF"
   },
   {
+    "ArticleID": "n_hat_halloween2024_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_hat_hgss_a_0",
     "HexColor": "#EAEAEAFF"
   },
@@ -1076,6 +1120,10 @@
     "HexColor": "#EAE9EAFF"
   },
   {
+    "ArticleID": "n_hat_lana_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_hat_laprasbandana_a_0",
     "HexColor": "#4292D7FF"
   },
@@ -1102,6 +1150,10 @@
   {
     "ArticleID": "n_hat_loneearrings_0",
     "HexColor": "#E59B18FF"
+  },
+  {
+    "ArticleID": "n_hat_lucariomask_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_hat_lvl50cap_0",
@@ -1316,10 +1368,6 @@
     "HexColor": "#C4B462FF"
   },
   {
-    "ArticleID": "n_hat_summer2023_0",
-    "HexColor": "#00000000"
-  },
-  {
     "ArticleID": "n_hat_svcostumescarletschool_0",
     "HexColor": "#1E4D95FF"
   },
@@ -1402,6 +1450,10 @@
   {
     "ArticleID": "n_hat_wcs2022winnersitems_0",
     "HexColor": "#263152FF"
+  },
+  {
+    "ArticleID": "n_hat_wcs2024paiditems_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_hat_whimsicottearmuff_0",
@@ -1672,6 +1724,10 @@
     "HexColor": "#EAE9EAFF"
   },
   {
+    "ArticleID": "n_pants_loose-fitting_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_pants_loosepants_0",
     "HexColor": "#747474FF"
   },
@@ -1734,6 +1790,14 @@
   {
     "ArticleID": "n_pants_munnapack_0",
     "HexColor": "#D8A8BAFF"
+  },
+  {
+    "ArticleID": "n_pants_naganadelaitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_pants_necrozmaitems_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_pants_neon-solid_0",
@@ -1964,6 +2028,14 @@
     "HexColor": "#C8B309EA"
   },
   {
+    "ArticleID": "n_pants_teamyellgrunts-pants_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_pants_teamyellgrunts-skirt_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_pants_turbine_0",
     "HexColor": "#313F51FF"
   },
@@ -1996,6 +2068,10 @@
     "HexColor": "#263152FF"
   },
   {
+    "ArticleID": "n_pants_wcs2024winnersitems_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_6thanniversary_a_0",
     "HexColor": "#F0ECE8FF"
   },
@@ -2022,6 +2098,10 @@
   {
     "ArticleID": "n_shirt_acetrainersm_b_0",
     "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_shirt_allister_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_alolacomfey_0",
@@ -2476,6 +2556,10 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_shirt_gowa2024_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_greedentsweater_0",
     "HexColor": "#AF132BFF"
   },
@@ -2529,6 +2613,10 @@
   },
   {
     "ArticleID": "n_shirt_hala_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_halloween2024_0",
     "HexColor": "#00000000"
   },
   {
@@ -2624,6 +2712,10 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_shirt_lana_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_lapearloutfit_a_0",
     "HexColor": "#00000000"
   },
@@ -2674,6 +2766,14 @@
   {
     "ArticleID": "n_shirt_longsleeves-pikachu_2",
     "HexColor": "#878787FF"
+  },
+  {
+    "ArticleID": "n_shirt_loose-fitting_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_loose-fitting_1",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_luvdiscpack_a_0",
@@ -2740,6 +2840,14 @@
     "HexColor": "#C6E0F4FF"
   },
   {
+    "ArticleID": "n_shirt_morpekofullonesie_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_morpekohangryonesie_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_movie2020jessiejames_a_0",
     "HexColor": "#CED3DEFF"
   },
@@ -2754,6 +2862,14 @@
   {
     "ArticleID": "n_shirt_munnapack_b_0",
     "HexColor": "#EA86B9FF"
+  },
+  {
+    "ArticleID": "n_shirt_naganadelaitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_necrozmaitems_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_nike2021_0",
@@ -3028,10 +3144,6 @@
     "HexColor": "#26681BFF"
   },
   {
-    "ArticleID": "n_shirt_summer2023_0",
-    "HexColor": "#00000000"
-  },
-  {
     "ArticleID": "n_shirt_sustainability2021_a_0",
     "HexColor": "#FFFFFFFF"
   },
@@ -3156,6 +3268,10 @@
     "HexColor": "#E2E3E2FF"
   },
   {
+    "ArticleID": "n_shirt_tandemausitems_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_tanktop_0",
     "HexColor": "#7B0004FF"
   },
@@ -3254,6 +3370,14 @@
   {
     "ArticleID": "n_shirt_teamspark_b_0",
     "HexColor": "#C8B309EA"
+  },
+  {
+    "ArticleID": "n_shirt_teamyellgrunts-cropped_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_teamyellgrunts-long_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_togepihoodie_0",
@@ -3456,6 +3580,22 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_shirt_wcs2024championshipshirt-blue_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2024championshipshirt-white_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2024paiditems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2024winnersitems_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_wcsyokohama_0",
     "HexColor": "#DFD1B1FF"
   },
@@ -3494,6 +3634,10 @@
   {
     "ArticleID": "n_shoes_acetrainersm_b_0",
     "HexColor": "#7CC0E5FF"
+  },
+  {
+    "ArticleID": "n_shoes_allister_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shoes_animegou_0",
@@ -3708,6 +3852,10 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_shoes_lana_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shoes_lapearloutfit_a_0",
     "HexColor": "#00000000"
   },
@@ -3762,6 +3910,10 @@
   {
     "ArticleID": "n_shoes_misty_0",
     "HexColor": "#C6E0F4FF"
+  },
+  {
+    "ArticleID": "n_shoes_necrozmaitems_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shoes_newyear2022_0",
@@ -3900,6 +4052,10 @@
     "HexColor": "#E2E3E2FF"
   },
   {
+    "ArticleID": "n_shoes_tandemausitems_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shoes_teamaqua_0",
     "HexColor": "#1AAAFFFF"
   },
@@ -3960,6 +4116,10 @@
     "HexColor": "#C8B309EA"
   },
   {
+    "ArticleID": "n_shoes_teamyellgrunts_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shoes_ultrareconsquad_0",
     "HexColor": "#87D4DCFF"
   },
@@ -3988,6 +4148,10 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_shoes_wcs2024winnersitems_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shoes_winterboots_0",
     "HexColor": "#917142FF"
   },
@@ -4005,10 +4169,6 @@
   },
   {
     "ArticleID": "n_shoes_winterboots2023_0",
-    "HexColor": "#00000000"
-  },
-  {
-    "ArticleID": "n_socks_acetrainerbw_0",
     "HexColor": "#00000000"
   },
   {
@@ -4078,5 +4238,313 @@
   {
     "ArticleID": "n_socks_thighhighs_0",
     "HexColor": "#242424FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_0",
+    "HexColor": "#A9C6E4FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_1",
+    "HexColor": "#58C1FAFF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_2",
+    "HexColor": "#2B72BAFF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_3",
+    "HexColor": "#CCCCCCFF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_4",
+    "HexColor": "#878787FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_5",
+    "HexColor": "#778865FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_6",
+    "HexColor": "#46857EFF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_7",
+    "HexColor": "#63AA5CFF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_8",
+    "HexColor": "#725D25FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_9",
+    "HexColor": "#B87A39FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_10",
+    "HexColor": "#7C3B15FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_11",
+    "HexColor": "#4F2612FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_12",
+    "HexColor": "#2F241EFF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_13",
+    "HexColor": "#BD4B31FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_14",
+    "HexColor": "#EE9440FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_15",
+    "HexColor": "#E8B255FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_16",
+    "HexColor": "#85D351FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_17",
+    "HexColor": "#564574FF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_18",
+    "HexColor": "#937DCBFF"
+  },
+  {
+    "ArticleID": "n_gradient_eye_19",
+    "HexColor": "#E4ABD8FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_0",
+    "HexColor": "#FEFCD4FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_1",
+    "HexColor": "#ECE4D7FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_2",
+    "HexColor": "#C7B198FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_3",
+    "HexColor": "#D8C290FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_4",
+    "HexColor": "#865E51FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_5",
+    "HexColor": "#783819FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_6",
+    "HexColor": "#531607FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_7",
+    "HexColor": "#663C11FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_8",
+    "HexColor": "#544231FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_9",
+    "HexColor": "#2F241EFF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_10",
+    "HexColor": "#353739FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_11",
+    "HexColor": "#2E2C2DFF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_12",
+    "HexColor": "#FDFEFCFF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_13",
+    "HexColor": "#E5E5E5FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_14",
+    "HexColor": "#878787FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_15",
+    "HexColor": "#BD4B31FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_16",
+    "HexColor": "#D08370FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_17",
+    "HexColor": "#F2C3C0FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_18",
+    "HexColor": "#EE9440FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_19",
+    "HexColor": "#E8B255FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_20",
+    "HexColor": "#B0FC7DFF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_21",
+    "HexColor": "#90E358FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_22",
+    "HexColor": "#63AA5CFF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_23",
+    "HexColor": "#223662FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_24",
+    "HexColor": "#2B72BAFF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_25",
+    "HexColor": "#58C1FAFF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_26",
+    "HexColor": "#789EE5FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_27",
+    "HexColor": "#9393ADFF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_28",
+    "HexColor": "#564574FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_29",
+    "HexColor": "#937DCBFF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_30",
+    "HexColor": "#E4ABD8FF"
+  },
+  {
+    "ArticleID": "n_gradient_hair_31",
+    "HexColor": "#E2CFE2FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_0",
+    "HexColor": "#292021FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_1",
+    "HexColor": "#643B2AFF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_2",
+    "HexColor": "#A67A73FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_3",
+    "HexColor": "#F1BBA4FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_4",
+    "HexColor": "#FFE9DFFF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_5",
+    "HexColor": "#3A1C15FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_6",
+    "HexColor": "#64433FFF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_7",
+    "HexColor": "#BE8962FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_8",
+    "HexColor": "#F7CFB1FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_9",
+    "HexColor": "#FFEFE4FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_10",
+    "HexColor": "#442C36FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_11",
+    "HexColor": "#784A42FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_12",
+    "HexColor": "#CF9C69FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_13",
+    "HexColor": "#F8D6CFFF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_14",
+    "HexColor": "#FCF5D5FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_15",
+    "HexColor": "#3A312AFF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_16",
+    "HexColor": "#825C43FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_17",
+    "HexColor": "#C99979FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_18",
+    "HexColor": "#F9DEBCFF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_19",
+    "HexColor": "#FFF5F0FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_20",
+    "HexColor": "#512D1CFF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_21",
+    "HexColor": "#976341FF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_22",
+    "HexColor": "#B27A5EFF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_23",
+    "HexColor": "#FCECCDFF"
+  },
+  {
+    "ArticleID": "n_gradient_skin_24",
+    "HexColor": "#F8F4F7FF"
   }
 ]
