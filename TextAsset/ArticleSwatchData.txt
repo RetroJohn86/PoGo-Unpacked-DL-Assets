@@ -2644,6 +2644,14 @@
     "HexColor": "#DD3937FF"
   },
   {
+    "ArticleID": "n_shirt_holiday2024-marshtompsweater_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_holiday2024-staryusweater_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_holifestival2021black_0",
     "HexColor": "#262626FF"
   },
