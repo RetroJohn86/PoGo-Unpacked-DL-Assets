@@ -20,6 +20,10 @@
     "HexColor": "#EA5A35FF"
   },
   {
+    "ArticleID": "n_backpack_blackkyuremitem_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_backpack_combeebackpack_0",
     "HexColor": "#00000000"
   },
@@ -84,16 +88,20 @@
     "HexColor": "#FFC552FF"
   },
   {
+    "ArticleID": "n_backpack_egg-incubator_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_backpack_eggbackpack_0",
-    "HexColor": "#73924EFF"
+    "HexColor": "#93B162FF"
   },
   {
     "ArticleID": "n_backpack_eggbackpack_1",
-    "HexColor": "#E88B29FF"
+    "HexColor": "#EEAA30FF"
   },
   {
     "ArticleID": "n_backpack_eggbackpack_2",
-    "HexColor": "#68568FFF"
+    "HexColor": "#8D78B1FF"
   },
   {
     "ArticleID": "n_backpack_frlg_a_0",
@@ -250,6 +258,10 @@
   {
     "ArticleID": "n_backpack_verizon2021_0",
     "HexColor": "#000000FF"
+  },
+  {
+    "ArticleID": "n_backpack_whitekyuremitem_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_backpack_zubatbp_0",
@@ -521,7 +533,7 @@
   },
   {
     "ArticleID": "n_gloves_bea_0",
-    "HexColor": "#EA761BFF"
+    "HexColor": "#F17327FF"
   },
   {
     "ArticleID": "n_gloves_bwn_0",
@@ -617,23 +629,23 @@
   },
   {
     "ArticleID": "n_gloves_megabangle_0",
-    "HexColor": "#FFFFFFFF"
+    "HexColor": "#F6F7F9FF"
   },
   {
     "ArticleID": "n_gloves_megabangle_1",
-    "HexColor": "#353535FF"
+    "HexColor": "#303030FF"
   },
   {
     "ArticleID": "n_gloves_megabangle_2",
-    "HexColor": "#0029FFFF"
+    "HexColor": "#0065B6FF"
   },
   {
     "ArticleID": "n_gloves_megabangle_3",
-    "HexColor": "#D90909FF"
+    "HexColor": "#BF0707FF"
   },
   {
     "ArticleID": "n_gloves_megabangle_4",
-    "HexColor": "#FFCA00FF"
+    "HexColor": "#FDD402FF"
   },
   {
     "ArticleID": "n_gloves_obstagoonitems_0",
@@ -653,7 +665,7 @@
   },
   {
     "ArticleID": "n_gloves_svdlc2spring_0",
-    "HexColor": "#00000000"
+    "HexColor": "#F73E33FF"
   },
   {
     "ArticleID": "n_gloves_swshdlc2costume_0",
@@ -665,19 +677,19 @@
   },
   {
     "ArticleID": "n_gloves_swshuniformchampion_0",
-    "HexColor": "#393B39FF"
+    "HexColor": "#D29A1AFF"
   },
   {
     "ArticleID": "n_gloves_swshuniformdark_0",
-    "HexColor": "#C91772FF"
+    "HexColor": "#5B483EFF"
   },
   {
     "ArticleID": "n_gloves_swshuniformdefault_0",
-    "HexColor": "#E0E0E0FF"
+    "HexColor": "#006AC2FF"
   },
   {
     "ArticleID": "n_gloves_swshuniformdragon_0",
-    "HexColor": "#29395DFF"
+    "HexColor": "#2D4069FF"
   },
   {
     "ArticleID": "n_gloves_teamaqua_a_0",
@@ -1120,6 +1132,10 @@
     "HexColor": "#EAE9EAFF"
   },
   {
+    "ArticleID": "n_hat_kyuremhat_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_hat_lana_0",
     "HexColor": "#00000000"
   },
@@ -1210,6 +1226,10 @@
   {
     "ArticleID": "n_hat_munnapack_1",
     "HexColor": "#313031FF"
+  },
+  {
+    "ArticleID": "n_hat_mustard_0",
+    "HexColor": "#52C8B5FF"
   },
   {
     "ArticleID": "n_hat_newyear2022_0",
@@ -1305,15 +1325,15 @@
   },
   {
     "ArticleID": "n_hat_regiicejersies_0",
-    "HexColor": "#6BA4B9FF"
+    "HexColor": "#70A9BEFF"
   },
   {
     "ArticleID": "n_hat_regirockjersies_0",
-    "HexColor": "#9A725CFF"
+    "HexColor": "#BD8F74FF"
   },
   {
     "ArticleID": "n_hat_registeeljersies_0",
-    "HexColor": "#373536FF"
+    "HexColor": "#464445FF"
   },
   {
     "ArticleID": "n_hat_ruinmaniac_a_0",
@@ -1532,6 +1552,10 @@
     "HexColor": "#F18908FF"
   },
   {
+    "ArticleID": "n_pants_blackwhite_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_pants_bounsweetitems_0",
     "HexColor": "#AD4D7BFF"
   },
@@ -1545,19 +1569,19 @@
   },
   {
     "ArticleID": "n_pants_casual_a_0",
-    "HexColor": "#6E8876FF"
+    "HexColor": "#7E7C76FF"
   },
   {
     "ArticleID": "n_pants_casual_a_1",
-    "HexColor": "#AB9C78FF"
+    "HexColor": "#BBB8A7FF"
   },
   {
     "ArticleID": "n_pants_casual_b_0",
-    "HexColor": "#6E8876FF"
+    "HexColor": "#7E7C76FF"
   },
   {
     "ArticleID": "n_pants_casual_b_1",
-    "HexColor": "#AB9C78FF"
+    "HexColor": "#BBB8A7FF"
   },
   {
     "ArticleID": "n_pants_clay_0",
@@ -1616,6 +1640,10 @@
     "HexColor": "#000000FF"
   },
   {
+    "ArticleID": "n_pants_fashionweek2025_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_pants_fisher_0",
     "HexColor": "#87875EFF"
   },
@@ -1670,6 +1698,10 @@
   {
     "ArticleID": "n_pants_green_b_0",
     "HexColor": "#383838FF"
+  },
+  {
+    "ArticleID": "n_pants_grimsley_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_pants_guzma_0",
@@ -1792,6 +1824,10 @@
     "HexColor": "#D8A8BAFF"
   },
   {
+    "ArticleID": "n_pants_mustard_0",
+    "HexColor": "#AEAFB0FF"
+  },
+  {
     "ArticleID": "n_pants_naganadelaitems_0",
     "HexColor": "#00000000"
   },
@@ -1869,15 +1905,15 @@
   },
   {
     "ArticleID": "n_pants_regiicejersies_0",
-    "HexColor": "#6BA4B9FF"
+    "HexColor": "#70A9BEFF"
   },
   {
     "ArticleID": "n_pants_regirockjersies_0",
-    "HexColor": "#9A725CFF"
+    "HexColor": "#BD8F74FF"
   },
   {
     "ArticleID": "n_pants_registeeljersies_0",
-    "HexColor": "#373536FF"
+    "HexColor": "#464445FF"
   },
   {
     "ArticleID": "n_pants_shorts_0",
@@ -2138,6 +2174,10 @@
   {
     "ArticleID": "n_shirt_bea_b_0",
     "HexColor": "#E5E4E2FF"
+  },
+  {
+    "ArticleID": "n_shirt_blackwhite_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_blazer_0",
@@ -2404,6 +2444,10 @@
     "HexColor": "#000000FF"
   },
   {
+    "ArticleID": "n_shirt_fashionweek2025_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_festivaloflights-00_0",
     "HexColor": "#00000000"
   },
@@ -2556,6 +2600,18 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_shirt_gotour2025_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_gotour2025_1",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_gotour2025_2",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_gowa2024_0",
     "HexColor": "#00000000"
   },
@@ -2572,12 +2628,16 @@
     "HexColor": "#2E2B2BFF"
   },
   {
+    "ArticleID": "n_shirt_grimsley_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_gtrtshirt2022_0",
-    "HexColor": "#274054FF"
+    "HexColor": "#2C3948FF"
   },
   {
     "ArticleID": "n_shirt_gtrtshirt2022_1",
-    "HexColor": "#6C322EFF"
+    "HexColor": "#542828FF"
   },
   {
     "ArticleID": "n_shirt_guccitshirts_0",
@@ -2649,6 +2709,10 @@
   },
   {
     "ArticleID": "n_shirt_holiday2024-staryusweater_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_holiday2024-wooloojacket_0",
     "HexColor": "#00000000"
   },
   {
@@ -2872,6 +2936,10 @@
     "HexColor": "#EA86B9FF"
   },
   {
+    "ArticleID": "n_shirt_mustard_0",
+    "HexColor": "#52C8B5FF"
+  },
+  {
     "ArticleID": "n_shirt_naganadelaitems_0",
     "HexColor": "#00000000"
   },
@@ -3037,15 +3105,15 @@
   },
   {
     "ArticleID": "n_shirt_regiicejersies_0",
-    "HexColor": "#6BA4B9FF"
+    "HexColor": "#70A9BEFF"
   },
   {
     "ArticleID": "n_shirt_regirockjersies_0",
-    "HexColor": "#9A725CFF"
+    "HexColor": "#BD8F74FF"
   },
   {
     "ArticleID": "n_shirt_registeeljersies_0",
-    "HexColor": "#373536FF"
+    "HexColor": "#464445FF"
   },
   {
     "ArticleID": "n_shirt_reuniclusitems_0",
@@ -3078,6 +3146,10 @@
   {
     "ArticleID": "n_shirt_shayminskytshirt_0",
     "HexColor": "#89D2CFFF"
+  },
+  {
+    "ArticleID": "n_shirt_shinymeloettatshirt_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_shinymewtshirts_0",
@@ -3353,19 +3425,19 @@
   },
   {
     "ArticleID": "n_shirt_teamrocket_a_0",
-    "HexColor": "#631212FF"
+    "HexColor": "#DA562EFF"
   },
   {
     "ArticleID": "n_shirt_teamrocket_a_1",
-    "HexColor": "#383838FF"
+    "HexColor": "#A4F297FF"
   },
   {
     "ArticleID": "n_shirt_teamrocket_b_0",
-    "HexColor": "#631212FF"
+    "HexColor": "#DA562EFF"
   },
   {
     "ArticleID": "n_shirt_teamrocket_b_1",
-    "HexColor": "#383838FF"
+    "HexColor": "#A4F297FF"
   },
   {
     "ArticleID": "n_shirt_teamskull_0",
@@ -3816,6 +3888,10 @@
     "HexColor": "#383838FF"
   },
   {
+    "ArticleID": "n_shoes_grimsley_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shoes_gymleader_0",
     "HexColor": "#C7302DFF"
   },
@@ -3918,6 +3994,10 @@
   {
     "ArticleID": "n_shoes_misty_0",
     "HexColor": "#C6E0F4FF"
+  },
+  {
+    "ArticleID": "n_shoes_mustard_0",
+    "HexColor": "#33291AFF"
   },
   {
     "ArticleID": "n_shoes_necrozmaitems_0",
@@ -4093,19 +4173,19 @@
   },
   {
     "ArticleID": "n_shoes_teamrocket_a_0",
-    "HexColor": "#68696CFF"
+    "HexColor": "#DA562EFF"
   },
   {
     "ArticleID": "n_shoes_teamrocket_a_1",
-    "HexColor": "#67ACFFFF"
+    "HexColor": "#A4F297FF"
   },
   {
     "ArticleID": "n_shoes_teamrocket_b_0",
-    "HexColor": "#68696CFF"
+    "HexColor": "#DA562EFF"
   },
   {
     "ArticleID": "n_shoes_teamrocket_b_1",
-    "HexColor": "#67ACFFFF"
+    "HexColor": "#A4F297FF"
   },
   {
     "ArticleID": "n_shoes_teamskull_0",
@@ -4161,19 +4241,19 @@
   },
   {
     "ArticleID": "n_shoes_winterboots_0",
-    "HexColor": "#917142FF"
+    "HexColor": "#EFD89FFF"
   },
   {
     "ArticleID": "n_shoes_winterboots_1",
-    "HexColor": "#27292BFF"
+    "HexColor": "#4C5052FF"
   },
   {
     "ArticleID": "n_shoes_winterboots_2",
-    "HexColor": "#D1D1D1FF"
+    "HexColor": "#E6E7E5FF"
   },
   {
     "ArticleID": "n_shoes_winterboots_3",
-    "HexColor": "#A81D23FF"
+    "HexColor": "#67A797FF"
   },
   {
     "ArticleID": "n_shoes_winterboots2023_0",
@@ -4221,11 +4301,11 @@
   },
   {
     "ArticleID": "n_socks_sneakersocks_0",
-    "HexColor": "#232323FF"
+    "HexColor": "#202020FF"
   },
   {
     "ArticleID": "n_socks_sneakersocks_1",
-    "HexColor": "#CECECEFF"
+    "HexColor": "#FFFFFFFF"
   },
   {
     "ArticleID": "n_socks_sollunaitems_0",
