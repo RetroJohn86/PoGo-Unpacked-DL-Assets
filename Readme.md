@@ -3,13 +3,13 @@
 
 **+** __**Repository Info**__
 
-As from the December 2024, the Download Size for this Repo is : **2.25 GB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
+As from the March 2025, the Download Size for this Repo is : **2.47 GB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
 **This Repository is of all thinks found and mined in the APK and Cache Files, including Images and More. This repo is organized based on category and is a combination of remote assets found inside the APK. NOTE: This repository may have doubles files in it.**
 
 
 __**Files and Folder Structure**__
 
-All images in this repo are found and mined and are located are organized based on category e.g. Animator, AudioClip, Font, Image Cache, Mesh, Sprite, TextAsset, Texture2D and More.
+All images in this repo are found and mined and are located are organized based on category e.g. Animator, AudioClip, Font, Image Cache, Mesh, Sprite, TextAsset Texture2D and Lost and Found.
 
 
 ## __**Disclaimer**__
@@ -18,7 +18,7 @@ All images in this repo are found and mined and are located are organized based 
 
 **All content found within this repo is the property of The Pokemon Company, Scopely and in the past Niantic.**
 
-**Retro John 86 did create or modify images or sounds found within this repo, even though they have custom names and all copyright belongs to the respective companies and sites.**
+**Retro John 86 did or didn't create, modify images, sounds found within this repo, even though they have custom names and all copyright belongs to the respective companies and sites.**
 
 **Please Respect the Original Source Material and Thank You to The Pokeminers, Pokemods and ZeChrales.**
 
