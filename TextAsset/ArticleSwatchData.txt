@@ -804,6 +804,10 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_hat_applinitems_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_hat_aseries_0",
     "HexColor": "#C5B6B7FF"
   },
@@ -2146,6 +2150,10 @@
   {
     "ArticleID": "n_shirt_animegou_0",
     "HexColor": "#6A6C6BFF"
+  },
+  {
+    "ArticleID": "n_shirt_applinitems_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_aseries_0",
