@@ -124,6 +124,18 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_backpack_goruckgengar_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_backpack_goruckpikachu_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_backpack_goruckwobbuffet_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_backpack_guccibackpack_0",
     "HexColor": "#FFFFFFFF"
   },
@@ -832,6 +844,10 @@
     "HexColor": "#6E6558FF"
   },
   {
+    "ArticleID": "n_hat_captainpikachu_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_hat_casket_0",
     "HexColor": "#171717FF"
   },
@@ -1452,20 +1468,20 @@
     "HexColor": "#292929FF"
   },
   {
-    "ArticleID": "n_hat_ultrareconsquad_0",
-    "HexColor": "#87D4DCFF"
-  },
-  {
-    "ArticleID": "n_hat_ultrareconsquadb_0",
-    "HexColor": "#87D4DCFF"
-  },
-  {
     "ArticleID": "n_hat_ultra_a_0",
     "HexColor": "#F4AD4CFF"
   },
   {
     "ArticleID": "n_hat_ultra_b_0",
     "HexColor": "#F4AD4CFF"
+  },
+  {
+    "ArticleID": "n_hat_ultrareconsquad_0",
+    "HexColor": "#87D4DCFF"
+  },
+  {
+    "ArticleID": "n_hat_ultrareconsquadb_0",
+    "HexColor": "#87D4DCFF"
   },
   {
     "ArticleID": "n_hat_verizon2021_0",
@@ -1498,6 +1514,14 @@
   {
     "ArticleID": "n_hat_yamaskmask_0",
     "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_zacianmask_0",
+    "HexColor": "#2E74BBFF"
+  },
+  {
+    "ArticleID": "n_hat_zamazentamask_0",
+    "HexColor": "#BD3C4AFF"
   },
   {
     "ArticleID": "n_hat_zubathat_0",
@@ -1692,16 +1716,16 @@
     "HexColor": "#00000000"
   },
   {
-    "ArticleID": "n_pants_greencoat_0",
-    "HexColor": "#055537FF"
-  },
-  {
     "ArticleID": "n_pants_green_a_0",
     "HexColor": "#383838FF"
   },
   {
     "ArticleID": "n_pants_green_b_0",
     "HexColor": "#383838FF"
+  },
+  {
+    "ArticleID": "n_pants_greencoat_0",
+    "HexColor": "#055537FF"
   },
   {
     "ArticleID": "n_pants_grimsley_0",
@@ -2568,6 +2592,14 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_shirt_gofest2025_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_gofest2025cream_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_gofestglobal2023_0",
     "HexColor": "#842E33FF"
   },
@@ -3148,6 +3180,10 @@
     "HexColor": "#AC9378FF"
   },
   {
+    "ArticleID": "n_shirt_scolipede_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shirt_shayminlandtshirt_0",
     "HexColor": "#B0DF9CFF"
   },
@@ -3580,16 +3616,16 @@
     "HexColor": "#A7CA70FF"
   },
   {
-    "ArticleID": "n_shirt_ultrareconsquad_0",
-    "HexColor": "#87D4DCFF"
-  },
-  {
     "ArticleID": "n_shirt_ultra_a_0",
     "HexColor": "#F58124FF"
   },
   {
     "ArticleID": "n_shirt_ultra_b_0",
     "HexColor": "#F58124FF"
+  },
+  {
+    "ArticleID": "n_shirt_ultrareconsquad_0",
+    "HexColor": "#87D4DCFF"
   },
   {
     "ArticleID": "n_shirt_uniqlotshirts_0",
@@ -3626,6 +3662,10 @@
   {
     "ArticleID": "n_shirt_victinitshirts_0",
     "HexColor": "#44A8DBFF"
+  },
+  {
+    "ArticleID": "n_shirt_volcaniontshirt_0",
+    "HexColor": "#1E374AFF"
   },
   {
     "ArticleID": "n_shirt_wcs2022_0",
@@ -3681,6 +3721,10 @@
   },
   {
     "ArticleID": "n_shirt_wcs2024winnersitems_0",
+    "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_shirt_wcs2025_0",
     "HexColor": "#00000000"
   },
   {
@@ -4088,6 +4132,10 @@
     "HexColor": "#0D77DBFF"
   },
   {
+    "ArticleID": "n_shoes_sizzlipedeboots_0",
+    "HexColor": "#00000000"
+  },
+  {
     "ArticleID": "n_shoes_solgaleoitems_0",
     "HexColor": "#D4DBDDFF"
   },
@@ -4216,16 +4264,16 @@
     "HexColor": "#00000000"
   },
   {
-    "ArticleID": "n_shoes_ultrareconsquad_0",
-    "HexColor": "#87D4DCFF"
-  },
-  {
     "ArticleID": "n_shoes_ultra_a_0",
     "HexColor": "#44776AFF"
   },
   {
     "ArticleID": "n_shoes_ultra_b_0",
     "HexColor": "#44776AFF"
+  },
+  {
+    "ArticleID": "n_shoes_ultrareconsquad_0",
+    "HexColor": "#87D4DCFF"
   },
   {
     "ArticleID": "n_shoes_veterantrainerxy_a_0",
