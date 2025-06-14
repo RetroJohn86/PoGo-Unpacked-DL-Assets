@@ -1236,6 +1236,66 @@
     "HexColor": "#A200BDFF"
   },
   {
+    "ArticleID": "n_hat_mlb-brewers_0",
+    "HexColor": "#2B3244FF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-diamondbacks_0",
+    "HexColor": "#2C3233FF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-giants_0",
+    "HexColor": "#AD6E38FF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-guardians_0",
+    "HexColor": "#A52F3BFF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-mariners_0",
+    "HexColor": "#274471FF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-marlins_0",
+    "HexColor": "#1E1E1EFF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-mets_0",
+    "HexColor": "#274470FF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-nationals_0",
+    "HexColor": "#9C2B47FF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-orioles_0",
+    "HexColor": "#AD5931FF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-rangers_0",
+    "HexColor": "#274D7CFF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-rays_0",
+    "HexColor": "#273454FF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-redsox_0",
+    "HexColor": "#B6142DFF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-twins_0",
+    "HexColor": "#272D3BFF"
+  },
+  {
+    "ArticleID": "n_hat_mlb-whitesox_0",
+    "HexColor": "#CCCCCCFF"
+  },
+  {
+    "ArticleID": "n_hat_mlb_0",
+    "HexColor": "#031935FF"
+  },
+  {
     "ArticleID": "n_hat_movie2020_0",
     "HexColor": "#CDCAC5FF"
   },
@@ -1306,6 +1366,18 @@
   {
     "ArticleID": "n_hat_phantump_0",
     "HexColor": "#00000000"
+  },
+  {
+    "ArticleID": "n_hat_pikachubutler-blue_0",
+    "HexColor": "#434F9CFF"
+  },
+  {
+    "ArticleID": "n_hat_pikachubutler-red_0",
+    "HexColor": "#992729FF"
+  },
+  {
+    "ArticleID": "n_hat_pikachubutler-yellow_0",
+    "HexColor": "#C6A640FF"
   },
   {
     "ArticleID": "n_hat_pikachucap_0",
@@ -1908,6 +1980,10 @@
     "HexColor": "#8D724AFF"
   },
   {
+    "ArticleID": "n_pants_pikachubutler_0",
+    "HexColor": "#252525FF"
+  },
+  {
     "ArticleID": "n_pants_pikachufan_a_0",
     "HexColor": "#1C2734FF"
   },
@@ -1942,6 +2018,10 @@
   {
     "ArticleID": "n_pants_registeeljersies_0",
     "HexColor": "#464445FF"
+  },
+  {
+    "ArticleID": "n_pants_s19gbl_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_pants_shorts_0",
@@ -3052,6 +3132,18 @@
     "HexColor": "#00000000"
   },
   {
+    "ArticleID": "n_shirt_pikachubutler-blue_0",
+    "HexColor": "#434F9CFF"
+  },
+  {
+    "ArticleID": "n_shirt_pikachubutler-red_0",
+    "HexColor": "#992729FF"
+  },
+  {
+    "ArticleID": "n_shirt_pikachubutler-yellow_0",
+    "HexColor": "#C6A640FF"
+  },
+  {
     "ArticleID": "n_shirt_pikachufan_a_0",
     "HexColor": "#F0B50EFF"
   },
@@ -3166,6 +3258,10 @@
   {
     "ArticleID": "n_shirt_ruinmaniac_b_0",
     "HexColor": "#DDB58FFF"
+  },
+  {
+    "ArticleID": "n_shirt_s19gbl_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shirt_safarizone2020_a_0",
@@ -4118,6 +4214,10 @@
   {
     "ArticleID": "n_shoes_ruinmaniac_b_0",
     "HexColor": "#DDB58FFF"
+  },
+  {
+    "ArticleID": "n_shoes_s19gbl_0",
+    "HexColor": "#00000000"
   },
   {
     "ArticleID": "n_shoes_sandals_0",
