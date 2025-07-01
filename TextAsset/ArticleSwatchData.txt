@@ -728,6 +728,22 @@
     "HexColor": "#C8B309EA"
   },
   {
+    "ArticleID": "n_gloves_teamwristband_0",
+    "HexColor": "#C6C6C6FF"
+  },
+  {
+    "ArticleID": "n_gloves_teamwristband_1",
+    "HexColor": "#B50000FF"
+  },
+  {
+    "ArticleID": "n_gloves_teamwristband_2",
+    "HexColor": "#0151A3FF"
+  },
+  {
+    "ArticleID": "n_gloves_teamwristband_3",
+    "HexColor": "#F7C000FF"
+  },
+  {
     "ArticleID": "n_gloves_teamyellgrunts_0",
     "HexColor": "#00000000"
   },
