@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "ArticleID": "n_hat_eternatussuit_0"
+  },
+  {
+    "ArticleID": "n_pants_eternatussuit_0"
+  },
+  {
+    "ArticleID": "n_shirt_eternatussuit_0"
+  },
+  {
+    "ArticleID": "n_shoes_eternatussuit_0"
+  }
+]
