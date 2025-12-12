@@ -1,14 +1,26 @@
 [
   {
+    "ArticleID": "n_glasses_lvl73-visorspecs_0"
+  },
+  {
     "ArticleID": "n_hat_eternatussuit_0"
   },
   {
     "ArticleID": "n_pants_eternatussuit_0"
   },
   {
+    "ArticleID": "n_pants_lvl75-techtrousers_0"
+  },
+  {
     "ArticleID": "n_shirt_eternatussuit_0"
   },
   {
+    "ArticleID": "n_shirt_lvl80-circuitjacket_0"
+  },
+  {
     "ArticleID": "n_shoes_eternatussuit_0"
+  },
+  {
+    "ArticleID": "n_shoes_lvl71-cyberkicks_0"
   }
 ]
